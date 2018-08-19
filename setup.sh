@@ -31,6 +31,9 @@ bash Anaconda3-5.1.0-Linux-x86_64.sh -b
 echo "Installing Visual Studio Code"
 sudo snap install --classic vscode
 
+sudo bash power.sh
+
+
 
 
 
